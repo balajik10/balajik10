@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Balaji K
 
-### 🚀 Data Science & Machine Learning Enthusiast | Software Developer 
+### Software Developer 
 
 Welcome to my GitHub profile! I'm a developer from Bengaluru, India, specializing in data science, machine learning, and full-stack development. My work spans various technologies, including neural networks, computer vision, cloud solutions, and more. I enjoy tackling challenging problems and creating meaningful impact through technology.
 
