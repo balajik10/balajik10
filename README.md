@@ -15,29 +15,29 @@ Welcome to my GitHub profile! I'm a developer from Bengaluru, India, specializin
 ### 🚀 Technologies & Skills
 
 - **Languages & Frameworks**:  
-  ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54) 
-  ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E) 
-  ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) 
-  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) 
-  ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)  
+  ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)  
+  ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)  
+  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)  
+  ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)  
 
 - **ML & Data Science**:  
-  ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) 
-  ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white) 
-  ![Pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
+  ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)  
+  ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)  
+  ![Pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)  
 
 - **Cloud & DevOps**:  
-  ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white) 
-  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+  ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)  
+  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)  
 
 - **Databases**:  
-  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)  
 
 - **Other Technologies**:  
-  ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) 
-  ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring&logoColor=white) 
-  ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white) 
-  ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white) 
+  ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)  
+  ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring&logoColor=white)  
+  ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)  
+  ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white)  
   ![Twilio](https://img.shields.io/badge/Twilio-FF8C00?style=flat&logo=twilio&logoColor=white)
 
 ---
@@ -48,25 +48,17 @@ Welcome to my GitHub profile! I'm a developer from Bengaluru, India, specializin
 A cutting-edge livestreaming platform built with Next.js, WebRTC, Sockets, Prisma, Tailwind, MySQL, and LiveKit. It enables real-time video streaming, interactive chat, and a seamless user experience.  
 **Tech**: TypeScript, WebRTC, Next.js
 
-#### 🔍 [VisionaryNavigator](https://github.com/balajik10/VisionaryNavigator)  
-VisionaryNavigator is an object detection web application utilizing TensorFlow.js and OpenCV.js for real-time object detection on images and live webcam feeds. It integrates the COCO-SSD model.  
-**Tech**: JavaScript, TensorFlow.js
+#### 📚 [StudyBuddy](https://github.com/balajik10/studybuddy)  
+A collaborative learning platform featuring chatrooms, user profiles, and REST API integration to facilitate interactive learning.  
+**Tech**: Django, HTML, CSS, JavaScript
 
-#### 💧 [Leak-Detection](https://github.com/balajik10/leak-detection)  
+#### 🛠️ [TaskForge](https://github.com/balajik10/TaskForge)  
+An enterprise-grade project management dashboard enabling teams to efficiently manage tasks, timelines, and collaboration. Built with Next.js, Node.js, and AWS services like Cognito, EC2, and RDS.  
+**Tech**: TypeScript, Next.js, Node.js, AWS
+
+#### 🔍 [Leak-Detection](https://github.com/balajik10/leak-detection)  
 AI-powered pipeline leak detection using a DFRobot Water Flow sensor and the Seeed Wio Terminal, with real-time classification.  
 **Tech**: C++, AI Models
-
-#### 🗣️ [VocalPost](https://github.com/balajik10/VocalPost)  
-A text-to-speech converter using AWS Polly, optimized for accessibility with a hosted live demo.  
-**Tech**: AWS Polly, Lambda
-
-#### 📺 [MediaFlow](https://github.com/balajik10/MediaFlow)  
-A dynamic video streaming platform featuring adaptive bitrate streaming, real-time transcoding, and efficient video chunking for smooth content delivery.  
-**Tech**: JavaScript, AWS S3, Kafka
-
-#### 🛡️ [TheftShield](https://github.com/balajik10/TheftShield)  
-A real-time video analysis system that detects shoplifting incidents using deep learning and behavioral analytics.  
-**Tech**: Python, Isolation Forest, Twilio
 
 ---
 
