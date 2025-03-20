@@ -70,17 +70,6 @@ AI-powered pipeline leak detection using a DFRobot Water Flow sensor and the See
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=balajik10&show_icons=true&theme=radical" alt="Balaji's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=balajik10&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
 
 ### 💬 Let's Connect!
 
