@@ -1,4 +1,4 @@
-# Hi, I'm Balaji K 👋
+# Hi, I'm Balaji K 
 
 **Backend Engineer · Search & Ranking · Distributed Systems**
 
@@ -12,9 +12,9 @@ Java  ·  Spring Boot  ·  Distributed Systems  ·  Redis  ·  Kafka  ·  Kubern
 
 ---
 
-## 🚀 Projects
+##  Projects
 
-### ⚡ Distributed Rate Limiter
+###  Distributed Rate Limiter
 `Java` `Spring Boot` `Redis` `Lua` `Caffeine` `Docker`
 
 A standalone rate-limiting service with pluggable **token bucket**, **sliding window log**, and **sliding window counter** algorithms — usable both as an embeddable library and an HTTP API.
@@ -23,7 +23,7 @@ A standalone rate-limiting service with pluggable **token bucket**, **sliding wi
 - **Caffeine L1 cache** tier with a quantified accuracy bound, trading exactness for round-trips
 - Configurable **fail-open / fail-closed** policy for Redis unavailability
 
-### 🔍 Sharded Search & Ranking Service `WIP`
+###  Sharded Search & Ranking Service `WIP`
 `Java 21` `Spring Boot` `Lucene` `Redis` `Kafka` `Kubernetes`
 
 A distributed search engine built from the ground up — custom scatter-gather coordinator over Lucene-backed shards, deliberately avoiding an off-the-shelf engine so the hard parts stay mine to solve.
@@ -32,14 +32,14 @@ A distributed search engine built from the ground up — custom scatter-gather c
 - **Adaptive per-shard timeouts**, hedged requests with cancellation, k-of-n partial results
 - Two-stage retrieval + feature-based re-ranking with batched Redis lookups
 
-### 💳 Idempotent Payment Ledger `Planned`
+###  Idempotent Payment Ledger `Planned`
 `Java` `Spring Boot` `PostgreSQL` `Kafka` `Testcontainers`
 
 Double-entry ledger with exactly-once semantics under concurrent retries — idempotency key arbitration, transactional outbox, and a property-based suite proving the ledger invariant holds under injected failure.
 
 ---
 
-## 🛠️ Tech
+##  Tech
 
 **Languages**
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
