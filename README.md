@@ -1,6 +1,6 @@
 # Hi, I'm Balaji K 
 
-**Backend Engineer · Search & Ranking · Distributed Systems**
+**Backend Engineer**
 
 I build and operate high-throughput backend services. Currently a Software Engineer at **Myntra**, working on search and ranking systems that serve traffic at **120K+ RPM** — ranking pipelines, latency debugging, and the unglamorous production reliability work that keeps them up during sale events.
 
