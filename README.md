@@ -23,15 +23,6 @@ A standalone rate-limiting service with pluggable **token bucket**, **sliding wi
 - **Caffeine L1 cache** tier with a quantified accuracy bound, trading exactness for round-trips
 - Configurable **fail-open / fail-closed** policy for Redis unavailability
 
-###  Sharded Search & Ranking Service `WIP`
-`Java 21` `Spring Boot` `Lucene` `Redis` `Kafka` `Kubernetes`
-
-A distributed search engine built from the ground up — custom scatter-gather coordinator over Lucene-backed shards, deliberately avoiding an off-the-shelf engine so the hard parts stay mine to solve.
-
-- Fan-out tail amplification: why coordinator p99 ≫ shard p99, and what to do about it
-- **Adaptive per-shard timeouts**, hedged requests with cancellation, k-of-n partial results
-- Two-stage retrieval + feature-based re-ranking with batched Redis lookups
-
 ###  Idempotent Payment Ledger `Planned`
 `Java` `Spring Boot` `PostgreSQL` `Kafka` `Testcontainers`
 
